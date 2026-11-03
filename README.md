@@ -236,3 +236,4 @@ IvÃ¡n SÃ¡nchez OndoÃ±o (@SanchezIvanDev)
 
 Proyecto docente de ejemplo para clases de DevOps y DevSecOps. CÃ³digo original de Oxygen: [cidinene/oxygen](https://github.com/cidinene/oxygen).
 * Iván Sánchez - Rol: Desarrollador Backend
+* Iván Sánchez - Rol: Desarrollador Backend
